@@ -1,7 +1,8 @@
-# tweet-reach
+# Tweet reach calculator
 A small application to find reach of a specific tweet
 
 ## Steps to install
+* Clone this repository in your root folder
 * Run `composer install`
 * Add database credentials in `.env`
 * Add twitter app credentials in `.env`
